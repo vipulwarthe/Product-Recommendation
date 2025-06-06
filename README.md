@@ -75,3 +75,23 @@ For any queries, feel free to open an issue or reach out to me at [sreeharis1999
 ## License
 
 This project is licensed under the terms of the [MIT License](LICENSE).
+
+
+# Product recomendation system:   
+
+orignal github link: https://github.com/sree-hari-s/Product-Recommendation
+   
+    1    sudo apt-get update
+    2    sudo apt install python3-venv -y
+    3    python3 -m venv MLPRO
+    4    source MLPRO/bin/activate
+    5    git clone https://github.com/vipulwarthe/Product-Recommendation.git
+    6    ls
+    7    cd Product-Recommendation/
+    8    ls
+    9    pip install -r requirements.txt 
+    10   python main.py 
+    11   python app.py 
+    12   streamlit run app.py
+   
+   open external link to access the application
