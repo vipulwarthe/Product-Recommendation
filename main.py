@@ -44,3 +44,9 @@ def get_recommendations_with_details(product_id=0, n_recommendations=5):
     return recommendations
 
 
+
+
+
+
+
+
